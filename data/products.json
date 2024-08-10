@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Mesa",
+    "description": "Mesa de madera robusta y duradera.",
+    "price": 20000,
+    "image": "./src/assets/mesa.jpg",
+    "category": "madera"
+  },
+  {
+    "id": 2,
+    "name": "Mueble",
+    "description": "Elegante mueble de madera con amplio almacenamiento.",
+    "price": 35000,
+    "image": "./src/assets/mueble.jpg",
+    "category": "madera"
+  },
+  {
+    "id": 3,
+    "name": "Silla",
+    "description": "Cómoda silla de madera para cualquier ambiente.",
+    "price": 10000,
+    "image": "./src/assets/silla.jpg",
+    "category": "madera"
+  },
+  {
+    "id": 4,
+    "name": "Escritorio",
+    "description": "Escritorio de madera ideal para oficina o estudio.",
+    "price": 25000,
+    "image": "./src/assets/escritorio.jpg",
+    "category": "madera"
+  },
+  {
+    "id": 5,
+    "name": "Cama",
+    "description": "Cama de madera sólida para un descanso reparador.",
+    "price": 50000,
+    "image": "./src/assets/cama.jpg",
+    "category": "madera"
+  },
+  {
+    "id": 6,
+    "name": "Guardarropa",
+    "description": "Guardarropa de madera con amplio espacio de almacenamiento.",
+    "price": 60000,
+    "image": "./src/assets/guardaropas.jpg",
+    "category": "madera"
+  },
+  {
+    "id": 7,
+    "name": "Auto",
+    "description": "Auto confiable y eficiente para toda la familia.",
+    "price": 2500000,
+    "image": "./src/assets/auto.png",
+    "category": "rodados"
+  },
+  {
+    "id": 8,
+    "name": "Camión",
+    "description": "Camión robusto para trabajos pesados y transporte.",
+    "price": 4000000,
+    "image": "./src/assets/camion.jpg",
+    "category": "rodados"
+  },
+  {
+    "id": 9,
+    "name": "Bicicleta",
+    "description": "Bicicleta ligera y rápida para ciudad o montaña.",
+    "price": 60000,
+    "image": "./src/assets/bici.jpg",
+    "category": "rodados"
+  },
+  {
+    "id": 10,
+    "name": "Camioneta",
+    "description": "Camioneta versátil y espaciosa para toda la familia.",
+    "price": 3500000,
+    "image": "./src/assets/camioneta.jpg",
+    "category": "rodados"
+  },
+  {
+    "id": 11,
+    "name": "Moto",
+    "description": "Moto ágil y potente para recorrer la ciudad.",
+    "price": 150000,
+    "image": "./src/assets/moto.jpg",
+    "category": "rodados"
+  },
+  {
+    "id": 12,
+    "name": "Carreta",
+    "description": "Carreta resistente para transporte en áreas rurales.",
+    "price": 30000,
+    "image": "./src/assets/carreta.jpg",
+    "category": "rodados"
+  },
+  {
+    "id": 13,
+    "name": "Monitor",
+    "description": "Monitor de alta resolución para una experiencia visual superior.",
+    "price": 50000,
+    "image": "./src/assets/monitor.jpg",
+    "category": "computacion"
+  },
+  {
+    "id": 14,
+    "name": "Placa de Video",
+    "description": "Placa de video de última generación para gaming y diseño.",
+    "price": 100000,
+    "image": "./src/assets/placa de video.jpg",
+    "category": "computacion"
+  },
+  {
+    "id": 15,
+    "name": "Teclado",
+    "description": "Teclado ergonómico y retroiluminado para comodidad y estilo.",
+    "price": 7000,
+    "image": "./src/assets/teclado.jpg",
+    "category": "computacion"
+  },
+  {
+    "id": 16,
+    "name": "Mouse",
+    "description": "Mouse preciso y rápido para todas tus necesidades de computación.",
+    "price": 5000,
+    "image": "./src/assets/mouse.jpg",
+    "category": "computacion"
+  },
+  {
+    "id": 17,
+    "name": "CPU",
+    "description": "CPU potente y eficiente para un rendimiento óptimo.",
+    "price": 120000,
+    "image": "./src/assets/cpu.jpg",
+    "category": "computacion"
+  },
+  {
+    "id": 18,
+    "name": "Placa Madre",
+    "description": "Placa madre avanzada con múltiples opciones de expansión.",
+    "price": 40000,
+    "image": "./src/assets/placa madre.jpg",
+    "category": "computacion"
+  }
+]

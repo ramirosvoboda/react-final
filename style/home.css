@@ -1,0 +1,28 @@
+.home-page {
+  position: relative;
+  height: calc(100vh - 60px); 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.welcome-container {
+  top: 250;
+  left: 250;
+  right: 250;
+  bottom: 200;
+  background-image: url('../assets/backgrpundhome.png'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 550px; 
+}
+
+.welcome-container h1 {
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(131, 38, 38, 0.1);
+  text-align: center;
+}
